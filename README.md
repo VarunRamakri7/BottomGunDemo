@@ -1,4 +1,4 @@
-# BottomGun
+# BottomGun Demo
 WebGL game made using Three.js
 
 This is an endless flyer where you collect items while avoiding obstacles.
